@@ -18,5 +18,4 @@ local.properties
 .gitattributes
 
 # Eclipse project files
-.classpath
-.project
+.settings
